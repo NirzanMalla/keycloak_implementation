@@ -31,3 +31,4 @@
 /Users/nirajanbikrammalla/WFT/11oct/obj/Debug/net8.0/11oct.pdb
 /Users/nirajanbikrammalla/WFT/11oct/obj/Debug/net8.0/11oct.genruntimeconfig.cache
 /Users/nirajanbikrammalla/WFT/11oct/obj/Debug/net8.0/ref/11oct.dll
+/Users/nirajanbikrammalla/WFT/11oct/obj/Debug/net8.0/11oct.sourcelink.json
